@@ -1,0 +1,8 @@
+{
+	"type": "material",
+	"name": "robux",
+	"description": "can flex to your friends with this!",
+	"hardness": 1,
+	"cost": 0.1,
+	"color": "013220"
+}
