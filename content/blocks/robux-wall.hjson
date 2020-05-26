@@ -2,7 +2,7 @@
 	"name": "Robux Wall",
 	"description": "hi mom",
 	"type": "Wall",
-	"health": 100000000000000,
+	"health": 100000,
 	"size": 1,
 	"requirements": [
 		{ "item": "robux", "amount": 25 }
